@@ -1,0 +1,42 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environment & secrets
+.env
+*.env
+
+# Data files (large — keep out of git)
+data/*.csv
+data/*.xlsx
+data/*.parquet
+data/*.db
+*.db
+
+# Saved models (regenerate from pipeline)
+models/*.pkl
+models/*.joblib
+
+# Logs
+*.log
+run_log.txt
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
