@@ -40,3 +40,6 @@ desktop.ini
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Generated PDF output (regenerate via documentation/scripts/)
+documentation/output/
