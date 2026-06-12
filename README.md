@@ -2,7 +2,7 @@
 
 > A board-ready Software as a Service (SaaS) metrics dashboard built for founders and executives who need a single source of truth on business health. Tracks Monthly Recurring Revenue (MRR), Net Revenue Retention (NRR), Lifetime Value to Customer Acquisition Cost ratio (LTV:CAC), Rule of 40, churn, and more. Every Key Performance Indicator (KPI) is benchmarked against industry standards with Red/Amber/Green (RAG) status colouring, a plain-English insights panel, and one-click board PDF export.
 
-**Live demo →** [share.streamlit.io](https://share.streamlit.io) *(link updates after deployment)*
+**Live demo →** [kene-saas-kpi.streamlit.app](https://kene-saas-kpi.streamlit.app)
 
 ---
 
@@ -16,7 +16,7 @@ This dashboard unifies all of those signals in one place, benchmarks each KPI ag
 
 ## Live dashboard
 
-**→ [View on Streamlit Cloud](https://share.streamlit.io)**
+**→ [View on Streamlit Cloud](https://kene-saas-kpi.streamlit.app)**
 
 Use the sidebar to filter by plan tier (Starter / Growth / Enterprise) or region (UK / US / EU / Asia-Pacific (APAC)). Every chart and metric updates in real time.
 

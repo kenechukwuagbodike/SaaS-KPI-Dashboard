@@ -59,8 +59,8 @@ For each calendar month, etl.py must:
 ## Upwork portfolio title
 "Executive KPI Dashboard for Data-Driven SaaS Decision Making"
 
-## Demo link (fill in after deployment)
-https://share.streamlit.io/...
+## Demo link
+https://kene-saas-kpi.streamlit.app
 
 ## GitHub repo
 https://github.com/kene-agbodike/saas-kpi-dashboard
