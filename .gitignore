@@ -20,6 +20,10 @@ data/*.parquet
 data/*.db
 *.db
 
+# Allow the two generated demo datasets (small, needed for Streamlit Cloud)
+!data/customers.csv
+!data/monthly_kpis.csv
+
 # Saved models (regenerate from pipeline)
 models/*.pkl
 models/*.joblib
